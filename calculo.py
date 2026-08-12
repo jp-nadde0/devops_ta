@@ -1,0 +1,1 @@
+def calcula(a, b):
